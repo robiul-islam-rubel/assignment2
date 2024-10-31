@@ -5,5 +5,6 @@
 
 
 # 📗 Dataset Creation Procedure
+For every research data is very importent. In this assignment, we need almost 200k of data where we'll use 150k for training the model and 50k for testing the model. To collect the data we use [SEART](https://seart-ghs.si.usi.ch/) website.
 
 
