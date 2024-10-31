@@ -12,4 +12,5 @@ For every research data is very importent. In this assignment, we need almost ``
 ```Step 3:``` Clone the repository\
 ```Step 4:``` Find the file that endswith ```.py```\
 ```Step 5:``` Check if there any methods present in that file that contains ```if``` conditions\
-```Step 5:``` If any methods contains the ```if``` conditions save that file into ```csv``` file
+```Step 5:``` If any methods contains the ```if``` conditions save that file into ```csv``` file\
+```Step 6:``` Repeat this procedure untill the len of the ```csv``` file not more than ```200k```
