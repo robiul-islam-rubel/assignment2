@@ -14,4 +14,4 @@ For every research data is very importent. In this assignment, we need almost ``
 ```Step 5:``` Check if there any methods present in that file that contains ```if``` conditions\
 ```Step 5:``` If any methods contains the ```if``` conditions save that file into ```csv``` file\
 ```Step 6:``` Repeat this procedure untill the length of the ```csv``` file more than ```200k```\
-```Step 7:``` Saved the train ````150k``` data as ```train_data.csv``` and test data as ```generated-testset.csv```
+```Step 7:``` Saved the train ```150k``` data as ```train_data.csv``` and test data as ```generated-testset.csv```
