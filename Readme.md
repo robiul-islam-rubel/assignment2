@@ -5,7 +5,7 @@
 
 
 # 📗 Dataset Creation Procedure
-For every research data is very importent. In this assignment, we need almost ```200k``` of data where we'll use ```150k``` for training the model and ```50k``` for testing the model. To collect the data we use [SEART](https://seart-ghs.si.usi.ch/) website. We use only 2 main parameters to collect the github repositories, first of all the number of contributers should be at least ```100``` and the code lines should be more than ```1000``` lines. We use this because we want to ensure that we can collect larger projects and our procedure will be easy.  
+For every research data is very important. In this assignment, we need almost ```200k``` of data where we'll use ```150k``` for training the model and ```50k``` for testing the model. To collect the data we use [SEART](https://seart-ghs.si.usi.ch/) website. We use only 2 main parameters to collect the github repositories, first of all the number of contributors should be at least ```100``` and the code lines should be more than ```1000``` lines. We use this because we want to ensure that we can collect larger projects and our procedure will be easy.  
 ## 🌟 Summary of datacollection procedure
 ```Step 1:``` Collect the data from ```SEART``` website.\
 ```Step 2: ``` In the dataset what we've collected from the SEART website. There are several columns such as id, name, branch, commits etc. From all of those column we only need the name column which contains the repo owener name and the repo name.  
