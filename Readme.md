@@ -10,7 +10,7 @@ For every research data is very importent. In this assignment, we need almost ``
 ```Step 1:``` Collect the data from ```SEART``` website.\
 ```Step 2: ``` In the dataset what we've collected from the SEART website. There are several columns such as id, name, branch, commits etc. From all of those column we only need the name column which contains the repo owener name and the repo name.  
 ```Step 2:``` Save all the name into ```repo_links.csv```\
-```Step 3:``` To clone the repository, we add ```https://github.com/``` at the beginning of the name and add ```.git``` at the end of the name. Now we the url is ready to clone the repository. If our name column contains tensorflow/tensorflow, we will get our url as ```https://github.com/tensorflow/tensorflow.git```\
+```Step 3:``` To clone the repository, we add ```https://github.com/``` at the beginning of the name and add ```.git``` at the end of the name. Now we the url is ready to clone the repository. If our name column contains ```tensorflow/tensorflow```, we will get our url as ```https://github.com/tensorflow/tensorflow.git```\
 ```Step 4:``` Find the file that endswith ```.py```\
 ```Step 5:``` Check if there any methods present in that file that contains ```if``` conditions\
 ```Step 5:``` If any methods contains the ```if``` conditions save that file into ```csv``` file\
